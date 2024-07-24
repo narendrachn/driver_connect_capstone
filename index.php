@@ -1,4 +1,4 @@
 <?php 
-require ('<controller>index.php');
+require ('controller/index.php');
 
 ?>
