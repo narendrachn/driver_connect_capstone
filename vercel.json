@@ -1,6 +1,6 @@
 {
     "functions": {
-        "controller/**/*.php": { "runtime": "vercel-php@0.6.0" }
+        "controller/*.php": { "runtime": "vercel-php@0.6.0" }
     },
     "routes": [
         { "src": "/(.*)", "dest": "/controller/index.php" }
