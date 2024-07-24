@@ -3,7 +3,7 @@
 // Function to initialize the map for real-time traffic
 // 49.7064° N, 125.0219° W comox vally coordinates 49.2827°, 123.1207°,
 var apiKey = "gEtI8GBbyroGxAGuR4FeBYcVmyAn0mvA";
-var centerCoords = [49.7064, 25.021943];
+var centerCoords = [235.005, 49.6841];
 var initialZoom = 13;
 var map = tt.map({
     key: apiKey,
